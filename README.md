@@ -37,11 +37,4 @@ This dashboard offers an in-depth look into NBA Finals history and player statis
 - Trends in final match outcomes (e.g., most frequent score: 4–2).
 - Correlation between MVP nationality and performance trends.
 
-📦 Files Included:
-- NBA_Championships_Dashboard.pbix
-- Screenshot.png
-- README.txt
-
-📞 Contact:
-For questions or suggestions, please reach out to:
-Mahmoud - data.visuals@nbaseason.com
+The dataset is not included due to licensing/sensitivity. Dashboard created for demo/portfolio purposes.
