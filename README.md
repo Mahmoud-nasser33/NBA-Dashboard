@@ -23,13 +23,7 @@ This dashboard offers an in-depth look into NBA Finals history and player statis
 - Donut charts for MVP positions and Finals results
 - Horizontal bar charts for team wins
 - Histogram for overall champions
-- Interactive slicers for period and conference filtering
-
-🛠 Usage Instructions:
-1. Open the Power BI dashboard (.pbix file).
-2. Use the **Year Range** slider to focus on specific time periods.
-3. Select **Finals Summary** to explore conference-specific performance.
-4. Analyze MVP data, team wins, and final result patterns interactively.
+- Interactive slicers for period and conference filtering.
 
 🧠 Insights You Can Draw:
 - Dominance of certain teams like BOS and LAL.
